@@ -6,18 +6,16 @@ Copyright (C) 2018 17London78 Inc.
 =========================================
 A text template for using in other modules
 =========================================
-Islamic Republic of Iran Broadcasting University (IRIBU)
-Faculty of Telecommunication Engineering
-Author: Mohammad Mahdi Baghbani Pourvahid
-Major: Telecommunication Engineering
-<MahdiBaghbani@protonmail.com>
-https://www.MahdiBaghbanii.wordpress.com
-https://www.GitHub.com/MahdiBaghbani
-Company: 17London78 Inc.
-https://www.17London78.ir
-https://www.GitHub.com/17London78
-=========================================
 """
+__author__ = "Mohammad Mahdi Baghbani Pourvahid"
+__copyright__ = "Copyright (C) 2018 17London78 Inc."
+__credits__ = ["Jadi mirmirani, Xysun, Al Sweigart"]
+__license__ = "AGPL 3.0"
+__maintainer__ = "Mohammad Mahdi Baghbani Pourvahid"
+__email__ = "Mohammad Mahdi Baghbani Pourvahid"
+__version__ = "0.01-alpha"
+__status__ = "Development"
+
 instructions = """Instructions:
 [<list>] to list all rooms
 

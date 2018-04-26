@@ -6,18 +6,16 @@ Copyright (C) 2018 17London78 Inc.
 =========================================
 A module for organizing users of the server
 =========================================
-Islamic Republic of Iran Broadcasting University (IRIBU)
-Faculty of Telecommunication Engineering
-Author: Mohammad Mahdi Baghbani Pourvahid
-Major: Telecommunication Engineering
-<MahdiBaghbani@protonmail.com>
-https://www.mahdibaghbanii.wordpress.com
-https://www.github.com/MahdiBaghbani
-Company: 17London78 Inc.
-https://www.17London78.ir
-https://www.github.com/17London78
-=========================================
 """
+__author__ = "Mohammad Mahdi Baghbani Pourvahid"
+__copyright__ = "Copyright (C) 2018 17London78 Inc."
+__credits__ = ["Jadi mirmirani, Xysun, Al Sweigart"]
+__license__ = "AGPL 3.0"
+__maintainer__ = "Mohammad Mahdi Baghbani Pourvahid"
+__email__ = "Mohammad Mahdi Baghbani Pourvahid"
+__version__ = "0.01-alpha"
+__status__ = "Development"
+
 import os
 import pickle
 from Crypto.Hash import SHA3_512
